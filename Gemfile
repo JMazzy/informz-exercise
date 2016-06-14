@@ -14,6 +14,7 @@ gem 'jbuilder', '~> 2.0'
 
 group :development, :test do
   gem 'pry-byebug'
+  gem 'rspec-rails'
   gem 'guard-rspec'
   gem 'binding_of_caller'
   gem 'better_errors'

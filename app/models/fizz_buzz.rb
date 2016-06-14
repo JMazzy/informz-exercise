@@ -1,6 +1,5 @@
 class FizzBuzz < ApplicationRecord
 
-
   def self.fizz_buzz_ness(input)
     result = ""
 
